@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: taskflow-backend
+    env: node
+    buildCommand: npm install
+    startCommand: npm start
+    envVars:
+      - key: PORT
+        value: 5000
+      - key: FRONTEND_URL
+        sync: false
