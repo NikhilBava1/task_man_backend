@@ -1,0 +1,52 @@
+[
+  {
+    "id": "bac6e8fd-bc6a-4191-9c8a-2cb3f8f6130c",
+    "title": "Order Flow Architecture",
+    "description": "Map user states and transition paths across premium API products.",
+    "completed": false,
+    "priority": "High",
+    "status": "Pending",
+    "dueDate": "2026-06-01",
+    "assigneeName": "Aarav Sharma",
+    "comments": []
+  },
+  {
+    "id": "e0959523-3c2e-4baf-8434-79dcaee4c876",
+    "title": "About Us Illustration",
+    "description": "Beautiful line art of team members collaborating in workspace.",
+    "completed": false,
+    "priority": "Medium",
+    "status": "In Progress",
+    "dueDate": "2026-06-17",
+    "assigneeName": "Harsha Reddy",
+    "comments": []
+  },
+  {
+    "id": "2d392d58-1e2e-4fc2-ac28-ce6fa9403799",
+    "title": "Solutions Pages",
+    "description": "Arch",
+    "completed": false,
+    "priority": "High",
+    "status": "In Progress",
+    "dueDate": "2026-06-04",
+    "assigneeName": "Manish Verma",
+    "comments": [
+      {
+        "id": "db762703-1d9e-4bb5-85c7-bb377390582c",
+        "text": "This is a comment sent directly to backend",
+        "createdAt": "2026-06-04T07:24:07.150Z"
+      }
+    ]
+  },
+  {
+    "id": "f3ddd5df-ee90-4a40-924e-ef7d7167315c",
+    "title": "Verification Task Test",
+    "description": "This is a verification task to check backend integration",
+    "completed": false,
+    "priority": "Medium",
+    "status": "Pending",
+    "dueDate": "2026-06-04",
+    "assigneeName": "Aarav Sharma",
+    "comments": []
+  }
+]
